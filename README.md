@@ -71,10 +71,6 @@ Status : ONLINE 🟢
 ```bash
 ## 👨‍💻 About Me
 
-<p align="center">
-
-<img src="./assets/about-card.svg" width="900"/>
-
 </p>
 
 # 🚀 Tech Universe
