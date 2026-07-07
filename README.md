@@ -55,11 +55,7 @@ Status : ONLINE 🟢
 
 > ### 💙 "Code with purpose. Build with passion. Learn every day."
 
-<div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
-
-*"Every commit is one step closer to mastery."*
 
 </div>
 
@@ -69,8 +65,7 @@ Status : ONLINE 🟢
 <br>
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-# 👨‍💻 About me 
+ 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 ```bash
