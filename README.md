@@ -44,5 +44,196 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=H.%20Dinesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Web%20Developer%20|%20Application%20Developer&descAlignY=58"/>
+<br>
+
+# 👨‍💻 About Me
+
+```typescript
+class Dinesh {
+
+    // Basic Information
+    readonly name = "H. Dinesh";
+
+    readonly nickname = "Dinu";
+
+    readonly country = "🇮🇳 India";
+
+    readonly education = "B.Sc Computer Science";
+
+    readonly role = "Full Stack Developer";
+
+    // Interests
+    interests = [
+        "🌐 Web Development",
+        "📱 Application Development",
+        "🎨 UI Design",
+        "✨ UX Design",
+        "🚀 Open Source"
+    ];
+
+    // Currently Learning
+    currentlyLearning = [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Firebase"
+    ];
+
+    // Life Goal
+    goal() {
+
+        return "Build useful software that helps millions of people.";
+
+    }
+
+}
+```
+
+---
+
+# 🚀 Technology Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+</p>
+
+---
+
+## 🎨 UI / UX
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</p>
+
+✔ Clean User Interface
+
+✔ Responsive Websites
+
+✔ Mobile First Design
+
+✔ Better User Experience
+
+✔ Simple & Modern Design
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsdinu-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdinu-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Current Learning Roadmap
+
+```text
+HTML         ██████████ 100%
+
+CSS          █████████░ 90%
+
+JavaScript   ███████░░░ 70%
+
+React        ████░░░░░░ 40%
+
+Node.js      ███░░░░░░░ 30%
+
+Express.js   ██░░░░░░░░ 20%
+
+MongoDB      ██░░░░░░░░ 20%
+
+Firebase     ██░░░░░░░░ 20%
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master HTML & CSS
+- ✅ Improve JavaScript Skills
+- ⬜ Learn React Completely
+- ⬜ Learn Backend Development
+- ⬜ Build 10+ Full Stack Projects
+- ⬜ Create Personal Portfolio Website
+- ⬜ Reach 500+ GitHub Contributions
+- ⬜ Contribute to Open Source
+- ⬜ Get My First Internship
+- ⬜ Get My First Freelance Client
+
+---
+
+# 💡 Developer Mindset
+
+> 💙 Learn continuously.
+
+> 🚀 Build consistently.
+
+> ⚡ Write clean code.
+
+> 🎯 Solve real-world problems.
+
+> 🌱 Improve every single day.
+
+---
+
+<div align="center">
+
+### ⭐ Keep Scrolling — More Awesome Sections Below ⭐
+
+</div>
+
 ---
