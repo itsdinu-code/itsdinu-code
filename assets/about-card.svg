@@ -1,0 +1,86 @@
+<svg width="900" height="360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" rx="20" ry="20"
+        width="880" height="340"
+        fill="url(#bg)"
+        stroke="#38BDF8"
+        stroke-width="3"/>
+
+  <text x="40" y="60"
+        fill="white"
+        font-size="32"
+        font-family="Segoe UI"
+        font-weight="bold">
+        👨‍💻 About Me
+  </text>
+
+  <text x="40" y="105"
+        fill="#E2E8F0"
+        font-size="20"
+        font-family="Segoe UI">
+
+💻 Full Stack Developer
+
+  </text>
+
+  <text x="40" y="140"
+        fill="#E2E8F0"
+        font-size="20"
+        font-family="Segoe UI">
+
+🌐 Web Developer
+
+  </text>
+
+  <text x="40" y="175"
+        fill="#E2E8F0"
+        font-size="20"
+        font-family="Segoe UI">
+
+📱 Application Developer
+
+  </text>
+
+  <text x="40" y="210"
+        fill="#E2E8F0"
+        font-size="20"
+        font-family="Segoe UI">
+
+🎓 B.Sc Computer Science
+
+  </text>
+
+  <text x="40" y="245"
+        fill="#E2E8F0"
+        font-size="20"
+        font-family="Segoe UI">
+
+🚀 Building HDM Transport
+
+  </text>
+
+  <text x="40" y="280"
+        fill="#E2E8F0"
+        font-size="20"
+        font-family="Segoe UI">
+
+🥗 Building NutriSnap
+
+  </text>
+
+  <text x="40" y="320"
+        fill="#38BDF8"
+        font-size="18"
+        font-family="Segoe UI">
+
+Dream → Learn → Build → Repeat
+
+  </text>
+</svg>
