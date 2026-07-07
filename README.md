@@ -1,39 +1,46 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm H. Dinesh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=H.%20Dinesh%20|%20Dinu&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Web%20Developer%20•%20Application%20Developer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Web+Developer;Application+Developer;UI%2FUX+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;💻+Full+Stack+Developer;🌐+Web+Developer;📱+Application+Developer;🎨+UI%2FUX+Enthusiast;🚀+Building+Projects+That+Matter;✨+Always+Learning+New+Things" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=itsdinu-code&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=itsdinu-code&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/itsdinu-code?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/itsdinu-code?logo=github&style=for-the-badge&color=181717"/>
 
-<img src="https://img.shields.io/github/stars/itsdinu-code?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/itsdinu-code?style=for-the-badge&color=facc15"/>
 
 </div>
 
 ---
 
-# 💫 Welcome To My GitHub
+# ⚡ DINU//OS v1.0
 
-> **"Dream. Build. Learn. Repeat."**
+```text
+> Booting developer profile...
 
-Hi 👋
+████████████████████ 100%
 
-I'm **H. Dinesh**, a passionate **Full Stack Developer** from India 🇮🇳.
+✔ Identity Loaded
+✔ Skills Loaded
+✔ Projects Loaded
+✔ Goals Loaded
 
-I enjoy creating beautiful websites, useful web applications, modern user interfaces, and real-world software that solves everyday problems.
+Status : ONLINE 🟢
+```
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
-Name: H. Dinesh
+Name:
+  H. Dinesh
 
-Nickname: Dinu
+Nickname:
+  Dinu
 
 Education:
   B.Sc Computer Science
@@ -44,87 +51,80 @@ Country:
 Role:
   Full Stack Developer
 
-Interested In:
-  - Web Development
-  - Application Development
-  - UI Design
-  - UX Design
-  - Open Source
+Interests:
+  - 🌐 Web Development
+  - 📱 Application Development
+  - 🎨 UI/UX Design
+  - 🚀 Open Source
 
 Currently Learning:
   - React
   - Node.js
-  - Express
+  - Express.js
   - MongoDB
   - Firebase
 
-Goal:
-  Become a Professional Full Stack Developer
+Mission:
+  Build beautiful, useful and scalable applications.
 
 Dream:
-  Build products used by millions of people
+  Become a professional Full Stack Developer.
 ```
 
 ---
 
-# 🚀 My Development Philosophy
+## 🚀 Development Philosophy
 
-✨ Learn by Building
-
-✨ Clean Code
-
-✨ Responsive Design
-
-✨ User Friendly Interfaces
-
-✨ Never Stop Learning
-
-✨ Real World Projects
+- 💡 Learn by Building
+- ✨ Keep UI Clean & Modern
+- 📱 Mobile First Design
+- ⚡ Performance Matters
+- 🔍 Write Readable Code
+- 🌱 Never Stop Learning
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- 🌐 Building Full Stack Applications
-
-- 🎨 Learning UI/UX
-
-- ⚛️ Mastering React
-
-- 🚀 Backend Development
-
-- 📱 Responsive Design
-
-- 🔥 Open Source Journey
+- 🌐 Full Stack Development
+- ⚛️ React Ecosystem
+- 🚀 Backend APIs
+- 🗄 Database Design
+- 🎨 UI/UX Improvement
+- 📦 Real-World Projects
 
 ---
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/itsdinu-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add LinkedIn later -->
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<!-- Add Portfolio later -->
+<!-- Add LinkedIn -->
+
+<!-- Add Portfolio -->
 
 </p>
 
 ---
 
-# ⭐ Motto
-
-> **Great software isn't built in one day. It's built one commit at a time.**
-
----
+> ### 💙 "Code with purpose. Build with passion. Learn every day."
 
 <div align="center">
 
-### ⭐ Thank you for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Every commit is one step closer to mastery."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7c3aed,50:2563eb,100:0f172a"/>
 
 ---
