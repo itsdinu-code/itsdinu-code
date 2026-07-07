@@ -179,40 +179,6 @@ class Dinesh {
 
 ---
 
-# 📈 Current Learning Roadmap
-
-```text
-HTML         ██████████ 100%
-
-CSS          █████████░ 90%
-
-JavaScript   ███████░░░ 70%
-
-React        ████░░░░░░ 40%
-
-Node.js      ███░░░░░░░ 30%
-
-Express.js   ██░░░░░░░░ 20%
-
-MongoDB      ██░░░░░░░░ 20%
-
-Firebase     ██░░░░░░░░ 20%
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master HTML & CSS
-- ✅ Improve JavaScript Skills
-- ⬜ Learn React Completely
-- ⬜ Learn Backend Development
-- ⬜ Build 10+ Full Stack Projects
-- ⬜ Create Personal Portfolio Website
-- ⬜ Reach 500+ GitHub Contributions
-- ⬜ Contribute to Open Source
-- ⬜ Get My First Internship
-- ⬜ Get My First Freelance Client
 
 ---
 
