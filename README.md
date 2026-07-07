@@ -16,7 +16,7 @@
 
 ---
 
-# ⚡ DINU//OS v1.0
+#  DINU
 
 ```text
 > Booting developer profile...
