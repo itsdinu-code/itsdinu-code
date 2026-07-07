@@ -128,3 +128,180 @@ Dream:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7c3aed,50:2563eb,100:0f172a"/>
 
 ---
+<br>
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+# 👨‍💻 About Me
+
+```typescript
+class Dinesh {
+
+    name = "H. Dinesh";
+
+    nickname = "Dinu";
+
+    country = "🇮🇳 India";
+
+    education = "B.Sc Computer Science";
+
+    role = "Full Stack Developer";
+
+    passion = [
+        "Web Development",
+        "Application Development",
+        "UI Design",
+        "UX Design",
+        "Open Source"
+    ];
+
+    currentlyLearning = [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Firebase"
+    ];
+
+    lifeGoal() {
+
+        return "Build software that solves real-world problems.";
+
+    }
+
+}
+```
+
+---
+
+# 🚀 Tech Universe
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+</p>
+
+---
+
+## 🎨 UI / UX
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</p>
+
+✔ Clean Interfaces
+
+✔ Responsive Design
+
+✔ User Friendly Layouts
+
+✔ Mobile First Design
+
+---
+
+## 🛠 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 📈 Current Learning Roadmap
+
+```text
+HTML        ██████████ 100%
+
+CSS         █████████░ 90%
+
+JavaScript  ████████░░ 80%
+
+React       ██████░░░░ 60%
+
+Node.js     █████░░░░░ 50%
+
+Express     ████░░░░░░ 40%
+
+MongoDB     ███░░░░░░░ 35%
+
+Firebase    ███░░░░░░░ 30%
+```
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master JavaScript
+
+⬜ Become React Expert
+
+⬜ Learn Backend Development
+
+⬜ Complete 10 Full Stack Projects
+
+⬜ Build Personal Portfolio
+
+⬜ Reach 100 GitHub Contributions
+
+⬜ Open Source Contribution
+
+⬜ Internship
+
+⬜ First Freelance Client
+
+---
+
+# 💡 Development Mindset
+
+> Every project teaches something new.
+
+> Every bug makes me a better developer.
+
+> Every commit is one step closer to my dream.
+
+---
+
+<div align="center">
+
+### 🚀 More sections coming...
+
+</div>
+
+---
