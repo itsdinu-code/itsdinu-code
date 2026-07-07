@@ -70,45 +70,187 @@ Status : ONLINE 🟢
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-# 👨‍💻 About Me
+# 👨‍💻 About me 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+```bash
+┌─────────────────────────────────────────────────────────────┐
+│                      DINU//OS v1.0                          │
+│                 Developer Profile Loaded                    │
+└─────────────────────────────────────────────────────────────┘
+
+$ whoami
+H. Dinesh (Dinu)
+
+$ role
+💻 Full Stack Developer
+🌐 Web Developer
+📱 Application Developer
+
+$ education
+🎓 B.Sc Computer Science
+
+$ location
+📍 Chennai, India 🇮🇳
+
+$ mission
+Build beautiful, fast and useful applications
+that solve real-world problems.
+
+$ currently_learning
+⚛ React.js
+🟢 Node.js
+🚀 Express.js
+🍃 MongoDB
+🔥 Firebase
+
+$ currently_building
+🚚 HDM Transport
+🥗 NutriSnap
+🌐 Personal Portfolio
+
+$ interests
+✔ Full Stack Development
+✔ Modern Web Technologies
+✔ Responsive Design
+✔ UI / UX Design
+✔ Open Source
+
+$ life_goal
+Become a professional software developer
+and build products used by millions.
+
+$ status
+
+████████████████████████ 100%
+
+🟢 STATUS : ONLINE
+
+🚀 Ready to Build Amazing Projects...
+```
+
+---
+
+## ⚡ Developer Configuration
 
 ```typescript
-class Dinesh {
+const dinesh = {
 
-    name = "H. Dinesh";
+    name: "H. Dinesh",
 
-    nickname = "Dinu";
+    nickname: "Dinu",
 
-    country = "🇮🇳 India";
+    role: [
+        "Full Stack Developer",
+        "Web Developer",
+        "Application Developer"
+    ],
 
-    education = "B.Sc Computer Science";
+    education: "B.Sc Computer Science",
 
-    role = "Full Stack Developer";
+    location: "Chennai, India 🇮🇳",
 
-    passion = [
-        "Web Development",
-        "Application Development",
-        "UI Design",
-        "UX Design",
-        "Open Source"
-    ];
+    languages: [
+        "JavaScript",
+        "Python",
+        "Java",
+        "C"
+    ],
 
-    currentlyLearning = [
-        "React",
+    frontend: [
+        "HTML5",
+        "CSS3",
+        "React"
+    ],
+
+    backend: [
         "Node.js",
-        "Express.js",
+        "Express.js"
+    ],
+
+    database: [
         "MongoDB",
+        "MySQL",
         "Firebase"
-    ];
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Figma"
+    ],
+
+    hobbies: [
+        "Coding",
+        "Designing UI",
+        "Learning",
+        "Building Projects"
+    ],
+
+    currentProjects: [
+        "HDM Transport",
+        "NutriSnap",
+        "Portfolio Website"
+    ],
 
     lifeGoal() {
 
-        return "Build software that solves real-world problems.";
+        return "Create software that improves people's lives.";
+
+    },
+
+    motto() {
+
+        return "Dream → Learn → Build → Repeat.";
 
     }
 
-}
+};
+
+console.log("👋 Welcome to my GitHub Profile!");
 ```
+
+---
+
+## 💻 Daily Workflow
+
+```text
+      ☀ Start Day
+          │
+          ▼
+ 📚 Learn New Technology
+          │
+          ▼
+ 💻 Build Real Projects
+          │
+          ▼
+ 🐞 Debug & Improve
+          │
+          ▼
+ 🚀 Commit to GitHub
+          │
+          ▼
+ 🌙 Repeat Tomorrow
+```
+
+---
+
+## 🚀 Developer Mindset
+
+```diff
++ Learn Every Day
++ Build Real Projects
++ Write Clean Code
++ Create Beautiful UI
++ Solve Real Problems
++ Never Stop Improving
+
+- Give Up
+```
+
+> ### 💙 **"Every great developer started with their first line of code. I'm building my journey one commit at a time."**
 
 ---
 
