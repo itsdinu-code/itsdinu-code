@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=H.%20Dinesh%20|%20Dinu&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Web%20Developer%20•%20Application%20Developer&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=H.%20Dinesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Web%20Developer%20|%20Application%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;💻+Full+Stack+Developer;🌐+Web+Developer;📱+Application+Developer;🎨+UI%2FUX+Enthusiast;🚀+Building+Projects+That+Matter;✨+Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Web+Developer;Application+Developer;UI%2FUX+Enthusiast;Building+Projects+That+Matter;Always+Learning+New+Things" />
 
 <br>
 
