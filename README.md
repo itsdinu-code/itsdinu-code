@@ -25,54 +25,8 @@
 
 <br>
 
-# 👨‍💻 About Me
-
-```typescript
-class Dinesh {
-
-    // Basic Information
-    readonly name = "H. Dinesh";
-
-    readonly nickname = "Dinu";
-
-    readonly country = "🇮🇳 India";
-
-    readonly education = "B.Sc Computer Science";
-
-    readonly role = "Full Stack Developer";
-
-    // Interests
-    interests = [
-        "🌐 Web Development",
-        "📱 Application Development",
-        "🎨 UI Design",
-        "✨ UX Design",
-        "🚀 Open Source"
-    ];
-
-    // Currently Learning
-    currentlyLearning = [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Firebase"
-    ];
-
-    // Life Goal
-    goal() {
-
-        return "Build useful software that helps millions of people.";
-
-    }
-
-}
-```
-
----
+about me 
+<img src="./assets/about-card.svg">
 
 # 🚀 Technology Stack
 
@@ -84,7 +38,7 @@ class Dinesh {
 
 </p>
 
----
+
 
 ## 🌐 Frontend Development
 
@@ -94,7 +48,7 @@ class Dinesh {
 
 </p>
 
----
+
 
 ## ⚙️ Backend Development
 
@@ -104,7 +58,7 @@ class Dinesh {
 
 </p>
 
----
+
 
 ## 🗄️ Databases
 
@@ -134,7 +88,7 @@ class Dinesh {
 
 ✔ Simple & Modern Design
 
----
+
 
 ## 🛠️ Development Tools
 
@@ -144,7 +98,7 @@ class Dinesh {
 
 </p>
 
----
+
 
 # 💡 Developer Mindset
 
@@ -158,25 +112,14 @@ class Dinesh {
 
 > 🌱 Improve every single day.
 
----
+
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsdinu-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsdinu-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdinu-code&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdinu-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -186,17 +129,15 @@ class Dinesh {
 
 </p>
 
----
+
 
 # 🏅 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsdinu-code&theme=tokyonight&margin-w=10&margin-h=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=itsdinu-code&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
----
 
 # 💼 What I Enjoy Building
 
@@ -212,7 +153,7 @@ class Dinesh {
 
 ✔ Open Source Projects
 
----
+
 
 # 📫 Connect With Me
 
@@ -232,7 +173,6 @@ class Dinesh {
 
 </p>
 
----
 
 # 💬 Favorite Quote
 
@@ -240,7 +180,7 @@ class Dinesh {
 
 — Harold Abelson
 
----
+
 
 <div align="center">
 
