@@ -167,21 +167,6 @@ class Dinesh {
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsdinu-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdinu-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
----
-
 # 💡 Developer Mindset
 
 > 💙 Learn continuously.
@@ -196,10 +181,100 @@ class Dinesh {
 
 ---
 
-<div align="center">
+# 📊 GitHub Analytics
 
-### ⭐ Keep Scrolling — More Awesome Sections Below ⭐
+<p align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsdinu-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdinu-code&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdinu-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsdinu-code&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsdinu-code&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 💼 What I Enjoy Building
+
+✔ Responsive Websites
+
+✔ Full Stack Applications
+
+✔ Mobile Applications
+
+✔ UI/UX Design
+
+✔ Real World Solutions
+
+✔ Open Source Projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/itsdinu-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- LinkedIn -->
+
+<!-- Portfolio -->
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+
+— Harold Abelson
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my GitHub ⭐
+
+### If you like my work
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Let's collaborate
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C9FF,50:2563EB,100:7C3AED"/>
+
+</div>
