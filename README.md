@@ -31,8 +31,7 @@ Version    : 1.0.0
 
 > 💙 **"I build clean, responsive and user-friendly applications while continuously learning new technologies."**
 
----
-# 👨‍💻 About Me
+---# 👨‍💻 About Me
 
 ```javascript
 const dinesh = {
